@@ -1,0 +1,41 @@
+header{
+    background:white;
+}
+h1{
+    padding: 10px;
+}
+body{
+    background: grey;
+    margin: 0 auto;
+}
+
+.postcontainer{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+
+}
+.postheader{
+background: white;
+display: flex;
+justify-content: space-between;
+padding:10px;
+}
+
+
+.img1 img{
+    width: 600px;
+    height: 300px;
+    object-fit: cover;
+}
+.postFooter{
+
+}
+
+.text{
+    padding: 10px;
+    margin:0px;
+}
+.span{
+    margin-top: 25px;
+}
