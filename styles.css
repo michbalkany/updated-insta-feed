@@ -106,11 +106,19 @@ padding:10px;
      .fa-heart-o{
         margin-left: 10px;
         
+        
+     }
+     .fa-heart-o:hover{
+        color: red;
+        
      }
      .fa-comment-o{
         margin-left: 8px;
         margin-top: -5px;
 
+     }
+     .fa-comment-o:hover{
+       color: blue;
      }
 
     
