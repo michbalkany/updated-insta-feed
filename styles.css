@@ -7,14 +7,10 @@ h1{
 body{
     background: grey;
     margin: 0 auto;
+    font-family: 'Corben', cursive;
 }
 
-.postcontainer{
-    width: 600px;
-    margin: auto;
-    background-color: white;
 
-}
 .postheader{
 background: white;
 display: flex;
@@ -39,3 +35,86 @@ padding:10px;
 .span{
     margin-top: 25px;
 }
+
+
+.postheader2{
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+    /* margin: 10px; */
+    
+    }
+    
+    
+    .img2 img{
+        width: 600px;
+        height: 300px;
+        object-fit: cover;
+    }
+    
+    
+    .text2{
+        padding: 10px;
+        margin:0px;
+    }
+    .span2{
+        margin-top: 25px;
+    }
+    .postheader3{
+        background: white;
+        display: flex;
+        justify-content: space-between;
+        padding:10px;
+        /* margin: 10px; */
+      
+        }
+        
+        
+        .img3 img{
+            width: 600px;
+            height: 300px;
+            object-fit: cover;
+        }
+        
+        
+        .text3{
+            padding: 10px;
+            margin:0px;
+        }
+        .span3{
+            margin-top: 25px;
+        }
+     .container{
+        width: 600px;
+        margin: auto;
+        background-color: white;
+    
+        /* border-top: 10px grey solid;
+        border-bottom: 10px grey solid; */
+        
+
+
+     }
+
+     .seperationcard{
+        margin-top: 100px;
+     }
+     .bottom{
+        margin-bottom: 25px;
+     }
+     .fa-heart-o{
+        margin-left: 10px;
+        
+     }
+     .fa-comment-o{
+        margin-left: 8px;
+        margin-top: -5px;
+
+     }
+
+    
+     .profile{
+        padding-left: 5px;
+        border: 5px lightgray solid;
+     }
